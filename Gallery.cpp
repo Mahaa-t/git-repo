@@ -25,17 +25,6 @@ class Videos : public MediaItems {
 	enum videoType;
 };
 
-class Bluetooth {
-
-};
-
-class WhatsApp {
-
-};
-
-class Mailbox {
-
-};
 
 class Applications {
 public:
