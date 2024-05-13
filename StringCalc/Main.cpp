@@ -6,7 +6,7 @@ int main() {
 
 	StringCalculator strCalcObj;
 
-	int result = strCalcObj.add("1 2 3 5 2");
+	int result = strCalcObj.add("1 2 3 5 8");
 
 	cout << "Result: " << result << endl;
 
